@@ -15,7 +15,7 @@ public class RPSLSArena
     }
     JFrame frame = new JFrame("ROCK PAPER SCISSORS LIZARD SPOCK");
     //schedule tournament
-    RPSLSStrategy[] players = {new CopyBot(), new BreadBot()};
+    RPSLSStrategy[] players = {new BreadBot()}; // adjust the players here
     RPSLSMatch[] matches = new RPSLSMatch[players.length*(players.length - 1) / 2];
     for (int p1 = 0, i = 0; p1 < players.length-1; p1++)
       for (int p2 = p1 + 1; p2 < players.length; p2++, i++)
