@@ -3,8 +3,6 @@
  * My rock paper scissors lizard spock robot
  */
 
-package com.mycompany.rpsls;
-
 import java.util.*;
 
 public class BreadBot implements RPSLSStrategy

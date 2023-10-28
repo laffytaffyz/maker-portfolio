@@ -1,5 +1,3 @@
-package com.mycompany.rpsls;
-
 public class RockBotTom implements RPSLSStrategy {
   public String strategyName() {
     return "RockBotTom";

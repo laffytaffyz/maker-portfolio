@@ -1,5 +1,3 @@
-package com.mycompany.rpsls;
-
 public class Botzilla implements RPSLSStrategy {
   public String strategyName() {
     return "Botzilla";

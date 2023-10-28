@@ -1,5 +1,3 @@
-package com.mycompany.rpsls;
-
 public interface RPSLSStrategy 
 {
   public String strategyName();

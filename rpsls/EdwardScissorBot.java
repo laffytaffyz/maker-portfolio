@@ -1,5 +1,3 @@
-package com.mycompany.rpsls;
-
 public class EdwardScissorBot implements RPSLSStrategy {
   public String strategyName() {
     return "EdwardScissorBot";

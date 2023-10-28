@@ -1,4 +1,3 @@
-package com.mycompany.rpsls;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;

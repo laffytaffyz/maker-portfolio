@@ -1,5 +1,3 @@
-package com.mycompany.rpsls;
-
 public class OrigamiBot implements RPSLSStrategy {
   public String strategyName() {
     return "OrigamiBot";

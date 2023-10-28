@@ -1,5 +1,3 @@
-package com.mycompany.rpsls;
-
 public class CopyBot implements RPSLSStrategy {
   private int oppLast;
   

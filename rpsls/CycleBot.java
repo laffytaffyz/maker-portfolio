@@ -1,5 +1,3 @@
-package com.mycompany.rpsls;
-
 public class CycleBot implements RPSLSStrategy {
   private int oppLast;
   

@@ -1,5 +1,3 @@
-package com.mycompany.rpsls;
-
 public class RPSLSMatch {
   private RPSLSStrategy player1;
   private RPSLSStrategy player2;

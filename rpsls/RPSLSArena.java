@@ -1,6 +1,3 @@
-
-package com.mycompany.rpsls;
-
 import java.util.*;
 import javax.swing.*;
 
