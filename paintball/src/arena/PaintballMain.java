@@ -221,10 +221,7 @@ public class PaintballMain extends javax.swing.JFrame {
                 team[t][p].respawn(board);
             }
         }
-//        Player demoShooter = new Player(1, new Shooter());
-//        team[1][4] = demoShooter;
-//        demoShooter.putOnBoard(board, 17, 43, 90);
-        
+
         repaint();
         
         //reset turn counter
