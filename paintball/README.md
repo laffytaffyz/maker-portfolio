@@ -1,7 +1,7 @@
 # [Paintball](/paintball/)
-**Main: [PaintballMain.java](/paintball/src/arena/PaintballMain.java)<br>**
 **My bot: [BreadBrain.java](/paintball/src/brains/BreadBrain.java)<br>**
-For the details of all the different classes, please see the [javadoc](/javadoc/allclasses-frame.html) created by one of my school's teachers. Note that this project is suggested to be ran on [NetBeans](https://netbeans.apache.org/front/main/). <br>
+**How to run: Run [PaintballMain.java](/paintball/src/arena/PaintballMain.java). Feel free to change team fill method in reset() or the players facing off in the methods in reset().**
+For the details of all the different classes, please see the [javadoc](/paintball/javadoc/allclasses-frame.html) created by one of my school's teachers. Note that this project is suggested to be ran on [NetBeans](https://netbeans.apache.org/front/main/). <br>
 
 ## [Sample Bots](/src/w_brains/)
 [DumbBaseCharger.java](/src/w_brains/DumbBaseCharger.java): charges directly to the base and shoots<br>

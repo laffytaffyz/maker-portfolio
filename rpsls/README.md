@@ -1,6 +1,6 @@
 # Rock-Paper-Scissors-Lizard-Spock (RPSLS)
-**Main: [PaintballMain.java](/paintball/src/arena/PaintballMain.java)<br>**
 **My bot: [BreadBrain.java](/paintball/src/brains/BreadBrain.java)<br>**
+**How to run: Run [RPSLSArena.java](/rpsls/RPSLSArena.java). Feel free to change the players in the round-robin tournament<br>**
 
 ## Sample Bots
 [Botzilla.java](/Botzilla.java): throws only lizard<br>
